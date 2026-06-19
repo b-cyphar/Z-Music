@@ -1,4 +1,4 @@
-# Contributing to Echo Music
+# Contributing to Z Music
 
 Thank you for your interest in contributing to Echo Music! This document provides comprehensive guidelines and information for contributors.
 
@@ -65,12 +65,12 @@ We are committed to providing a welcoming and inspiring community for all. We pl
 1. Fork the repository on GitHub
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Echo-Music.git
-   cd Echo-Music
+   git clone https://github.com/YOUR_USERNAME/Z-Music.git
+   cd Z-Music
    ```
 3. Add the upstream repository:
    ```bash
-   git remote add upstream https://github.com/iad1tya/Echo-Music.git
+   git remote add upstream https://github.com/iad1tya/Z-Music.git
    ```
 
 ## Development Setup
@@ -401,13 +401,7 @@ We follow [Semantic Versioning](https://semver.org/):
 - **GitHub Issues**: For bug reports and feature requests
 - **Pull Requests**: For code contributions and reviews
 
-### Getting Help
 
-If you have questions about contributing:
-
-1. Check the [GitHub Discussions](https://github.com/iad1tya/Echo-Music/discussions)
-2. Create a new discussion
-3. Contact maintainers directly through GitHub
 
 ### Recognition
 
@@ -417,15 +411,9 @@ Contributors will be recognized in:
 - GitHub contributors page
 - App credits (if applicable)
 
-## Questions?
 
-If you have questions about contributing:
 
-1. Check the [GitHub Discussions](https://github.com/iad1tya/Echo-Music/discussions)
-2. Create a new discussion
-3. Contact maintainers directly
-
-Thank you for contributing to Echo Music!
+Thank you for contributing to  Z Music!
 
 ---
 <div align="center">
