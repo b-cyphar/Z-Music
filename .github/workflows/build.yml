@@ -16,11 +16,11 @@ jobs:
         distribution: 'temurin'
           java-version: '17'
       - run: chmod +x gradlew
-      - run: ./gradlew assembleUniversalFossRelease
+      - run: ./gradlew assembleUniversalFossDebug
       - uses: actions/upload-artifact@v3
         with:
           name: app-release
-          path: app/build/outputs/apk/universal/foss/release/
+          path: app/build/outputs/apk/universal/foss/debug/
 
 
 
