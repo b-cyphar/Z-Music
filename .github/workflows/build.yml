@@ -13,10 +13,23 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/setup-java@v3
         with:
+        distribution: 'temurin'
           java-version: '17'
       - run: chmod +x gradlew
       - run: ./gradlew assembleUniversalFossRelease
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v3
         with:
           name: app-release
           path: app/build/outputs/apk/universal/foss/release/
+
+
+
+
+
+
+
+
+      
+  
+    
+    
