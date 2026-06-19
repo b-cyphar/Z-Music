@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Echo-new.png" alt="Z Music Logo" width="140"/>
+  <img src="assets/icon-512.png" alt="Z Music Logo" width="140"/>
 
   <h1>Z Music</h1>
 
