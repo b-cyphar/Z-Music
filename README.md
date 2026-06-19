@@ -182,47 +182,9 @@ Download the latest pre-compiled APK from the [Releases Page](https://github.com
 
 ---
 
-## Community & Support
 
-Join the community for updates, discussions, and help.
 
-<div align="center">
-  <a href="https://discord.gg/EcfV3AxH5c">
-    <img src="assets/discord.png" alt="Discord Logo" width="140"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/EchoMusicApp">
-    <img src="assets/telegram.png" alt="Telegram Logo" width="130"/>
-  </a>
-</div>
 
----
-
-## Support the Project
-
-If Echo Music has been useful to you, consider supporting its development.
-
-<div align="center">
-  <a href="https://buymeacoffee.com/iad1tya">
-    <img src="assets/bmac.png" alt="Buy Me A Coffee Logo" width="140"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://intradeus.github.io/http-protocol-redirector/?r=upi://pay?pa=iad1tya@upi&pn=Aditya%20Yadav&am=&tn=Thank%20You">
-    <img src="assets/upi.svg" alt="UPI Logo" width="100"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.patreon.com/cw/iad1tya">
-    <img src="assets/patreon3.png" alt="Patreon Logo" width="100"/>
-  </a>
-</div>
-
-### Cryptocurrency
-
-| Network | Address |
-| :--- | :--- |
-| Bitcoin | `bc1qcvyr7eekha8uytmffcvgzf4h7xy7shqzke35fy` |
-| Ethereum | `0x51bc91022E2dCef9974D5db2A0e22d57B360e700` |
-| Solana | `9wjca3EQnEiqzqgy7N5iqS1JGXJiknMQv6zHgL96t94S` |
 
 ---
 
